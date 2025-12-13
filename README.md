@@ -1,6 +1,7 @@
 # generador-html-odt
 leer ficheros
 cabecera web
+traducir
 enlaces,
 indices
 submenus
