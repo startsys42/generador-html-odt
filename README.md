@@ -1,0 +1,3 @@
+# generador-html-odt
+
+ cabeceras, enlaces, indices, mates, msucia, antes depsues, ajustar etsilos ...tabals listas,....
