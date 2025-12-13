@@ -1,3 +1,8 @@
 # generador-html-odt
 leer ficheros
- cabeceras, enlaces, indices, mates, msucia, antes depsues, ajustar etsilos ...tabals listas,....
+cabecera web
+enlaces,
+indices
+submenus
+mates
+msucia, antes depsues, ajustar etsilos ...tabals listas,....plasntuml, mermaid
