@@ -1,3 +1,3 @@
 # generador-html-odt
-
+leer ficheros
  cabeceras, enlaces, indices, mates, msucia, antes depsues, ajustar etsilos ...tabals listas,....
