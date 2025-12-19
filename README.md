@@ -13,10 +13,14 @@ bibliografia ,....
 
 
 ----
-conversorpdf html
-examen
+conversorpdf html- > leer carpeats imagenes generar archivos ,..
+examen- > meter preguntas con opciones, opcioens no repetidas
 encriptado
 nd
 agenda
 ia
 wiki
+ia juegos musica,..
+doñana, ia estadistica
+scrapping
+apis,
