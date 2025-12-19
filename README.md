@@ -13,6 +13,7 @@ bibliografia ,....
 
 
 ----
+estadistica
 conversorpdf html- > leer carpeats imagenes generar archivos ,..
 examen- > meter preguntas con opciones, opcioens no repetidas
 encriptado
